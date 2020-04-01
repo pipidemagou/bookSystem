@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23d4e421-94c5-4bda-b699-ffecb456ee36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin(2)/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin(2)\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZF7zdaxE0ViJjANsFtIWLVi15r" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaWebStudy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15703125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\BookSystem\src\main\webapp\client" />
+      <recent name="E:\BookSystem\src\main\webapp\background" />
+      <recent name="E:\BookSystem\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BookSystem\src\main\webapp" />
+      <recent name="E:\BookSystem\src\main\java\junit" />
+      <recent name="E:\BookSystem\src\main\java\web\manager" />
+      <recent name="E:\BookSystem\src\main\java\web\filter" />
+      <recent name="E:\BookSystem\src\main\java\web\client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookSystem " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d4e421-94c5-4bda-b699-ffecb456ee36" name="Default Changelist" comment="" />
+      <created>1584423251467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584423251467</updated>
+      <workItem from="1584423253188" duration="6596000" />
+      <workItem from="1584430868634" duration="4081000" />
+      <workItem from="1584490428384" duration="7492000" />
+      <workItem from="1584512789605" duration="1883000" />
+      <workItem from="1584838834134" duration="6000" />
+      <workItem from="1584925376432" duration="14858000" />
+      <workItem from="1585009141942" duration="20407000" />
+      <workItem from="1585094374564" duration="1985000" />
+      <workItem from="1585182243198" duration="25020000" />
+      <workItem from="1585270250108" duration="5341000" />
+      <workItem from="1585378641515" duration="3986000" />
+      <workItem from="1585451276156" duration="1201000" />
+      <workItem from="1585456040906" duration="23000" />
+      <workItem from="1585533003786" duration="80000" />
+      <workItem from="1585623844652" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1469" y="-137" key="#Custom_Plugin_Repositories" timestamp="1584428917774">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="-137" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1584428917774" />
+    <state x="-1469" y="-137" key="#HTTP_Proxy" timestamp="1584428909087">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="-137" key="#HTTP_Proxy/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1584428909087" />
+    <state x="-1468" y="-136" key="#Project_Structure" timestamp="1585456055281">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1468" y="-136" key="#Project_Structure/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585456055281" />
+    <state x="452" y="97" key="#Project_Structure/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423521220" />
+    <state x="-1506" y="-124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584925389670">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="-124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1584925389670" />
+    <state x="414" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423548911" />
+    <state x="-1199" y="-113" key="#com.intellij.ide.util.MemberChooser" timestamp="1585233551167">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1199" y="-113" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585233551166" />
+    <state x="748" y="402" width="488" height="235" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1584423504739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="402" width="488" height="235" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423504739" />
+    <state x="708" y="419" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1584423513806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="419" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423513806" />
+    <state x="-1434" y="-29" key="FileChooserDialogImpl" timestamp="1585623872002">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1434" y="-29" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585623872002" />
+    <state x="486" y="204" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423512917" />
+    <state width="1869" height="142" key="GridCell.Tab.0.bottom" timestamp="1585235584865">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585235584865" />
+    <state width="1869" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423551233" />
+    <state width="1869" height="142" key="GridCell.Tab.0.center" timestamp="1585235584865">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="142" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585235584865" />
+    <state width="1869" height="245" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423551233" />
+    <state width="1869" height="142" key="GridCell.Tab.0.left" timestamp="1585235584865">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="142" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585235584865" />
+    <state width="1869" height="245" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423551233" />
+    <state width="1869" height="142" key="GridCell.Tab.0.right" timestamp="1585235584865">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="142" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1585235584865" />
+    <state width="1869" height="245" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-233.1920.1040@0.0.1920.1040" timestamp="1584423551233" />
+    <state x="-1538" y="-155" key="SettingsEditor" timestamp="1584430850930">
+      <screen x="-1920" y="-233" width="1920" height="1040" />
+    </state>
+    <state x="-1538" y="-155" key="SettingsEditor/0.0.1920.1040/-1920.-233.1920.1040@-1920.-233.1920.1040" timestamp="1584430850930" />
+  </component>
+</project>
